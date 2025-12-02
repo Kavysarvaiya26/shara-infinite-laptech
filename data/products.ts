@@ -15,11 +15,11 @@ export type Product = {
 export const products: Product[] = [
 {
   id: 1,
-  name: "8GB DDR4 RAM",
+  name: "meet",
   category: "RAM",
   brand: "Corsair",
   specs: "DDR4, 3200MHz",
-  price: 4999,
+  price: 2,
   stock: 5,
   inStock: true,
   imageUrl: "/product/ram.jpg",     // ✔ correct
