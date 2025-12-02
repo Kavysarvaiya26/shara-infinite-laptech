@@ -84,6 +84,13 @@ a {
   color: #0f172a;
 }
 
+.productPrice {
+  font-size: 16px;
+  font-weight: 600;
+  margin-top: 2px;
+}
+
+
 /* Content */
 .content {
   max-width: 960px;

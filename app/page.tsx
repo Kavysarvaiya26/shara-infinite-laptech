@@ -60,6 +60,7 @@ export default function Home() {
                   {product.brand} • {product.category}
                 </p>
                 <p className="productSpecs">{product.specs}</p>
+                <p className="productPrice">₹{product.price}</p> 
                 <p className="productStock">
                   {product.stock > 0
                     ? `${product.stock} left`
