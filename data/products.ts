@@ -19,7 +19,7 @@ export const products: Product[] = [
   category: "RAM",
   brand: "Corsair",
   specs: "DDR4, 3200MHz",
-  price: 2,
+  price: 2000,
   stock: 5,
   inStock: true,
   imageUrl: "/product/ram.jpg",     // ✔ correct
